@@ -1,0 +1,8 @@
+node_modules
+.env
+sample_output/*.png
+sample_output/output.json
+trace.zip
+.vscode
+enhancements.md
+n8n_workflow_competitor_tracker.json

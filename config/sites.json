@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Shop A \u2013 Example",
+    "url": "https://example.com/product/1",
+    "device": "desktop",
+    "selectors": {
+      "title": "h1",
+      "price": ".price, .product-price, [data-test='price']",
+      "availability": ".stock, .availability"
+    }
+  },
+  {
+    "name": "Shop B \u2013 Example",
+    "url": "https://example.com/product/2",
+    "device": "mobile",
+    "selectors": {
+      "title": "h1",
+      "price": ".price",
+      "availability": ".stock"
+    }
+  }
+]
