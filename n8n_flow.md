@@ -165,7 +165,7 @@ Trigger the scraping automatically and store results in Google Sheets, optionall
 * HTTP Request → Call Replit scraper API
 * Google Sheets → Save data
 * Notifications → Optional alerts
-![n8n work flow](./src/workflow.png)
+![n8n work flow](workflow.png)
 
 
 
