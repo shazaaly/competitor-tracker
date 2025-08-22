@@ -1,4 +1,4 @@
-# Competitor Tracker Project
+# Competitor Tracker
 
 **Overview:**
 This project is an automation system that uses **Playwright** to scrape competitor websites, collects data like product titles, prices, and availability, and integrates with **n8n** to automate workflows. You can run it **locally** or host it on **Replit**. Scraped data can be stored in **Google Sheets** or sent via notifications.
